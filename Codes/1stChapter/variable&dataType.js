@@ -36,7 +36,7 @@ var _canI = "Yes";
 // valid with symbol
 //__________________
 
-var $text="Valid value";
+var  $text="Valid value";
 
 //could not use any white space " " in variable name
 //__________________________________________________
