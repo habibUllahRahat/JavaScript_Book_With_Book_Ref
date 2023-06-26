@@ -25,5 +25,6 @@ console.log("value of window.a is : "+window.a);
 
 /**New execution context : Whenever a function call or creation happen a new execution context is and this context has two phase:
  * Creation Phase.
- * Execution Phase.
+ * Execution Phase. 
  */
+sbhjgdfkgdkwjed
