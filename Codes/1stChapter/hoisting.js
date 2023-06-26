@@ -22,3 +22,5 @@ function afunc() {
 console.log('Value : '+ an);// it will show 'an' undefiend
 
  var an = 30;
+
+ //console.log('Value : '+ xy) //it will show error
