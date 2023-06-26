@@ -1,11 +1,11 @@
 /**
-_________________                        
-|                                  |                   
-|                                  |          |\       /------------\                         /----------------\                     /------------------\             
-|         CODE               -------!   \    | PARSER | ========> | CONVERT  | ======>  | CODE RUNS |             
-|                                  |-------|   /     \------------/ ABSTRACT   \----------------/ MACHINE \------------------/
-|                                  |          |/                             SYNTAX                                  CODE
-----------------------------                                            TREE
+____________________
+                   |                   
+|                  |       |\       /--------\           /----------\          /-----------\             
+|     CODE         |-------!  \     | PARSER | ========> | CONVERT  | ======>  | CODE RUNS |             
+|                  |-------|   /    \--------/ ABSTRACT   \---------/ MACHINE  \-----------/
+|                  |       |/                  SYNTAX                   CODE
+-------------------                             TREE
 *PARSER = >  Here system look for sytanx error and if the code has no syntax error it will create an Abstract Syntax Tree.
 *CONVERT = > In this phase code convert into Machine Language and ready to execute.
 */
