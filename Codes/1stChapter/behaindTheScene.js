@@ -27,4 +27,3 @@ console.log("value of window.a is : "+window.a);
  * Creation Phase.
  * Execution Phase. 
  */
-sbhjgdfkgdkwjed
