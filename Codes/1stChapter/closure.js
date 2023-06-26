@@ -2,7 +2,7 @@ function clouserDemo(){
     var x = 10;
     function anotherFunction(){
         var y = 20;
-        console.log('sum'+(x+y));
+        console.log('sum '+(x+y));
     }
     return anotherFunction;
 }
